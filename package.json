@@ -13,8 +13,10 @@
     "mongoose": "^4.1.12"
   },
   "devDependencies": {
+    "@producteca/linterteca": "^1.3.0",
     "async": "*",
     "chai": "*",
+    "husky": "^9.1.7",
     "mocha": "*",
     "mongoose": "^4.1.12"
   },
@@ -58,7 +60,8 @@
     }
   ],
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha"
+    "test": "node_modules/mocha/bin/mocha",
+    "prepare": "husky"
   },
   "bugs": {
     "url": "https://github.com/codetunnel/mongoose-auto-increment/issues"
