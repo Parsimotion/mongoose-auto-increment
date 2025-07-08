@@ -1,3 +1,7 @@
+# Requirements
+
+> Node >= 16
+
 # mongoose-auto-increment
 
 [![Build Status](https://travis-ci.org/codetunnel/mongoose-auto-increment.png?branch=master)](https://travis-ci.org/codetunnel/mongoose-auto-increment)
