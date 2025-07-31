@@ -2,4 +2,3 @@
 node_modules/
 *.swp
 *.swo
-package-lock.json
